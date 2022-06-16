@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @allefsilvaleal
 - 👀 I’m interested in become a Developer.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Python.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Java, Angular and Python.
 - 💞️ I’m looking to collaborate on simple projects.
 - 📫 How to reach me: allefsilvaleal@hotmail.com and https://www.linkedin.com/in/allef-leal-b8670411a/
 
